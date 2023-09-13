@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React js**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently workingon  **jQuery**
 
 - 👨‍💻 All of my projects are available at [github.com/arti-jansari](github.com/arti-jansari)
 
