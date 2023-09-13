@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [github.com/arti-jansari/portfolio](github.com/arti-jansari/portfolio)
 
-- 📄 Know about my experiences [github.com/arti-jansari/portfolio](github.com/arti-jansari/React-portfolio)
+- 📄 Know about my experiences [github.com/arti-jansari/React-portfolio](github.com/arti-jansari/React-portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
