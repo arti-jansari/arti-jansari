@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [[github.com/arti-jansari/portfolio](github.com/arti-jansari/portfolio)](https://portfolio-c7exaxuwc-arti-jansari.vercel.app/)
 
-- 📄 Know about my experiences [github.com/arti-jansari/React-portfolio](github.com/arti-jansari/React-portfolio)
+- 📄 Know about my experiences [react-portfolio-git-master-arti-jansari.vercel.app](https://react-portfolio-git-master-arti-jansari.vercel.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
