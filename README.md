@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **artijansari@gmail.com**
 
-- 📄 Know about my experiences [github.com/arti-jansari/portfolio](github.com/arti-jansari/portfolio)
+- 📄 Know about my experiences [[github.com/arti-jansari/portfolio](github.com/arti-jansari/portfolio)](https://portfolio-c7exaxuwc-arti-jansari.vercel.app/)
 
 - 📄 Know about my experiences [github.com/arti-jansari/React-portfolio](github.com/arti-jansari/React-portfolio)
 
